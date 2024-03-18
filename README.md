@@ -7,4 +7,4 @@ El código fue desarrollado usando el paquete [polymapR](https://cran.r-project.
 Referencia: Peter M Bourke, Geert van Geest, Roeland E Voorrips, Johannes Jansen, Twan Kranenburg, Arwa Shahin, Richard G F Visser, Paul Arens, Marinus J M Smulders y Chris Maliepaard. 2018. polymapR—linkage analysis and genetic map construction from F1 populations of outcrossing polyploids. Bioinformatics 34(20):3496–3502.
 [https://doi.org/10.1093/bioinformatics/bty371](https://doi.org/10.1093/bioinformatics/bty371)
 
-![Análisis de componentes principales](/Figs/Fig19_final_linkage_map.png)
+![Mapa final](/Figs/Fig19_final_linkage_map.png)
