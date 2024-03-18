@@ -163,7 +163,7 @@ pq_screened_data <- parental_quantities(dosage_matrix = filtered_data)
 
 ##Definiendo grupos de ligamiento (cromosomas) en base a marcadores simplex x nulliplex
 ##(tipo 1x0) del primer padre (P1)
-##En especie estudiada, número de cromosomas = 7; homólogos = 28
+##En especie estudiada, número de cromosomas = 5; homólogos = 20
 SN_SN_P1 <- linkage(dosage_matrix = filtered_data, 
                     markertype1 = c(1,0), # marcador tipo 1x0
                     parent1 = "P1",
