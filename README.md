@@ -1,4 +1,4 @@
-### Caso 1: Mapa de ligamiento genético
+### Construcción de un mapa de ligamiento genético
 
 Este repositorio contiene códigos de programación en lenguaje R para construir un mapa de ligamiento genético en especies vegetales tetraploides.
 
